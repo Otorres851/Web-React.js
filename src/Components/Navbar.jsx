@@ -31,8 +31,8 @@ function Navbar () {
                 <li><a href=" " className="active">Home</a></li>
                 <li><a href="#features">Features</a></li>
                 <li><a href="#about">About</a></li>
-                <li><a href="#presentation ">UI SS</a></li>
-                <li><a href=" ">Download</a></li>
+                <li><a href="#presentation">UI SS</a></li>
+                <li><a href="#contact">Download</a></li>
             </ul>
 
         </nav>
